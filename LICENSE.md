@@ -1,4 +1,4 @@
-
+secure CyberGhost Addon | double-VPN + L2TP-support is the best CyberGhost addon, featuring double-VPN and L2TP-support. Secure, fast, and optimized for privacy.
 
 
 
